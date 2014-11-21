@@ -1,0 +1,8 @@
+C:\Development\Playground\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Development\Playground\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Development\Playground\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Development\Playground\HelloWorld\HelloWorld\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Development\Playground\HelloWorld\HelloWorld\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Development\Playground\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Development\Playground\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Development\Playground\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
